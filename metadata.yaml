@@ -1,0 +1,42 @@
+_repo: The-Elizabethan-Stage-Vol-2-of-4_67423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chambers, E. K. (Edmund Kerchever)
+    aliases:
+    - Chambers, Sir Edmund Kerchever
+    - Chambers, Edmund Kerchever
+    birthdate: 1866
+    deathdate: 1954
+    gutenberg_agent_id: '33297'
+    url: http://www.gutenberg.org/2009/agents/33297
+    wikipedia: https://en.wikipedia.org/wiki/E._K._Chambers
+description: ''
+gutenberg_issued: '2022-02-17'
+identifiers:
+  gutenberg: '67423'
+language: en
+pgterms:marc905: 20181007103124chambers
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Tim Lindell, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United Kingdom :The Clarendon Press,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acting -- History -- 16th century'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history -- England -- London'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Relations with actors'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- !lcc 'PR'
+- !lcc 'PN'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history -- To 1625'
+- !lcsh 'Theater -- England -- London -- History -- 16th century'
+- !lcsh 'Theaters -- England -- London -- History -- 16th century'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600 -- History and criticism'
+- GITenberg
+tableOfContents: The companies -- The play-houses.
+title: The Elizabethan Stage (Vol 2 of 4)
+url: http://www.gutenberg.org/ebooks/67423
